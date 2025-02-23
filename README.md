@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-🔭 I’m currently working on:
-  [Easy File Transfer](https://github.com/Xavanion/Easy-File-Transfer) A desktop application to allow for users to easily transfer and share files
-  [Monke Chat](https://github.com/Xavanion/Monke-Chat) A web based real time chatting application
+🔭 I’m currently working on:\
+  *[Easy File Transfer](https://github.com/Xavanion/Easy-File-Transfer) A desktop application to allow for users to easily transfer and share files\
+  *[Monke Chat](https://github.com/Xavanion/Monke-Chat) A web based real time chatting application\
 
-📫 How to reach me:
-  Email: barrettbrown2012@gmail.com
+📫 How to reach me:\
+  *Email: barrettbrown2012@gmail.com
 
 
 <!--
