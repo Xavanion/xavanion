@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on:
-  * [NetCode](https://github.com/Xavanion/Hack-KU-2025) An online collaborative code editor & runner, Built on using a rope data structure for message passing with operational transformations and conncurrency control methods to ensure a fully synchronized enviroment
+  * [NetCode](https://github.com/Xavanion/NetCode) An online collaborative code editor & runner, Built on using a rope data structure for message passing with operational transformations and conncurrency control methods to ensure a fully synchronized enviroment
   * [Easy File Transfer](https://github.com/Xavanion/Easy-File-Transfer) A desktop application to allow for users to easily transfer and share files
   * [Monke Chat](https://github.com/Xavanion/Monke-Chat) A web based real time chatting application
 
